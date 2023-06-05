@@ -1,1 +1,1 @@
-# lp-html-css-tutorial-pc-sp
+# ポートフォリオサイトです。自分用にアレンジ予定
