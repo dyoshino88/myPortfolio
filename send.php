@@ -9,7 +9,7 @@ $mailText = '名前：' . $name . "\r\n"
     . 'メールアドレス：' . $email . "\r\n"
     . '内容：' . $message . "\r\n";
 
-mail('ggtestaddress@gmail.com', 'お問い合わせ', $mailText);
+mb_send_mail('yoshino0707dh@yahoo.ne.jp', 'お問い合わせ', $mailText);
 ?>
 <html>
 
